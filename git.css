@@ -1,4 +1,13 @@
-body
-{
-    background-color: lightgreen;
+body {
+    background-color: rgb(67, 233, 236);
+}
+
+h1 {
+    color: rgb(237, 81, 157);
+    text-align: center;
+}
+p{
+    font-family:'Times New Roman';
+    font-size:20px;
+    text-align:center;
 }
